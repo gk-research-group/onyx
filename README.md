@@ -1,6 +1,6 @@
 # Onyx 3
 
-**Thinks in steps you can follow. Still free. Still open source.**
+**Thinks in steps you can follow. Still free. Still open source. (now spiced up with extra features)**
 
 **Try it: [gkson-lab.github.io/onyx](https://gkson-lab.github.io/onyx/)**. Free to use, with no account and nothing to install.
 
